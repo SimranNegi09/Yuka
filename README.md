@@ -2,7 +2,7 @@
 
 A small, mood-based comfort app for the moments when you need a little pause. Pick how you feel, get a short, gentle activity, and check out when you're done. No sign-up, no account, no tracking.
 
-**Live demo:** https://YOUR-USERNAME.github.io/Yuka/
+**Live demo:** https://simrannegi09.github.io/Yuka/
 
 > Yuka is a self-care companion, not a replacement for professional mental health support.
 
