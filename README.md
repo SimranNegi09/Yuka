@@ -57,5 +57,5 @@ Download `index.html` and open it in a browser. That's all.
 
 ## Credits
 
-Designed and built by **YOUR NAME**.
+Designed and built by **Simran Negi**.
 The bunny, game stickers and envelope are original illustrations made for this project. Some other imagery is used for portfolio and demonstration purposes only, and this project is not for commercial use.
